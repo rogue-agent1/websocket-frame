@@ -1,11 +1,11 @@
 # websocket_frame
 
-websocket_frame - WebSocket frame encoder/decoder (RFC 6455).
+websocket_frame: WebSocket frame encoder/decoder (RFC 6455).
 
-Zero-dependency, single-file Python CLI.
+Single-file, zero-dependency Python CLI.
 
 ## Usage
 
 ```bash
-python3 websocket_frame.py
+python3 websocket_frame.py test
 ```
